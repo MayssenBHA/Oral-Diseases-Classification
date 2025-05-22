@@ -1,4 +1,4 @@
-# 🦷 Oral Disease Detection using EfficientNet (Improved V1)
+# 🦷 Oral Disease Classification using EfficientNet
 
 This project focuses on detecting and classifying oral diseases from medical images using deep learning. After experimenting with multiple models including **ResNet18** and **Vision Transformers**, **EfficientNet** provided the best performance in terms of accuracy and generalization.
 
